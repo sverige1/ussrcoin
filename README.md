@@ -1,13 +1,13 @@
-LottoCoin, a p2p crypto coin based on scrypt PoW, provides random coins per block. Initially it generates a random number of coins, between 256 coins and 65536 (256*256) coins, per block. In addition, it generates randomly superblocks on per hourly basis (131072 coins per block), semi-daily (262144 coins per block) and daily super lotto (528244 coins per block). LottoCoin is a great cyber crypto coin for games. LottoCoin has a total of about 18,302,526,336 coins. It is a descendant of Litecoin with random block features. 
+ussrcoin, a p2p crypto coin based on scrypt PoW, provides random coins per block. Initially it generates a random number of coins, between 256 coins and 65536 (256*256) coins, per block. In addition, it generates randomly superblocks on per hourly basis (131072 coins per block), semi-daily (262144 coins per block) and daily super USRto (528244 coins per block). ussrcoin is a great cyber crypto coin for games. ussrcoin has a total of about 18,302,526,336 coins. It is a descendant of Litecoin with random block features. 
 
 Features:
 	- 30 seconds block time
 	- Difficulty retargets every block
 	- Initially random 256 - 65536 (256*256) coins per block
 	- Hourly, semi-daily and daily superblocks:
-		- Hourly lotto 131072 coins per block
-		- Semi-daily lotto 262144 coins per block
-		- Daily lotto 1048576 coins per block
+		- Hourly USRto 131072 coins per block
+		- Semi-daily USRto 262144 coins per block
+		- Daily USRto 1048576 coins per block
 	- 4 confirmations for transaction. This zap-fast 2 minutes confirmation time
 	- 60 confirmations for minted blocks
 	- Total coins will be around 18,406,979,840 coins
@@ -33,7 +33,7 @@ or are controversial.
 
 The master branch is regularly built and tested, but is not guaranteed
 to be completely stable. Tags are regularly created to indicate new
-official, stable release versions of LottoCoin.
+official, stable release versions of ussrcoin.
 
 Feature branches are created when there are major new features being
 worked on by several people.

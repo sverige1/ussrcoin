@@ -1,9 +1,9 @@
-Building LottoCoin
+Building ussrcoin
 
-See doc/readme-qt.rst for instructions on building LottoCoin-QT,
+See doc/readme-qt.rst for instructions on building ussrcoin-QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of LottoCoin.
+implementation of ussrcoin.
 
-See doc/build-*.txt for instructions on building LottoCoind,
+See doc/build-*.txt for instructions on building ussrcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of LottoCoin.
+implementation of ussrcoin.

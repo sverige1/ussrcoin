@@ -827,7 +827,7 @@ VERBATIM_HEADERS       = YES
 
 # If the ALPHABETICAL_INDEX tag is set to YES, an alphabetical index 
 # of all compounds will be generated. Enable this if the project 
-# contains a lot of classes, structs, unions or interfaces.
+# contains a USR of classes, structs, unions or interfaces.
 
 ALPHABETICAL_INDEX     = YES
 
